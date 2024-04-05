@@ -15,7 +15,7 @@ Torvalds with help of a group of hackers around the net.
 Please read the file [INSTALL][] for installation instructions.
 
 Many Git online resources are accessible from <https://git-scm.com/>
-including full documentation and Git related tools.
+including full documentation and Git related ts.
 
 See [Documentation/gittutorial.txt][] to get started, then see
 [Documentation/giteveryday.txt][] for a useful minimum set of commands, and
